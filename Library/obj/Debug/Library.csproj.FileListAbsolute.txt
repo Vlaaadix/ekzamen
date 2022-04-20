@@ -1,0 +1,12 @@
+C:\Users\danya\source\repos\WpfExam\Library\bin\Debug\Library.dll
+C:\Users\danya\source\repos\WpfExam\Library\bin\Debug\Library.pdb
+C:\Users\danya\source\repos\WpfExam\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\danya\source\repos\WpfExam\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\WpfExam\Library\obj\Debug\Library.dll
+C:\Users\danya\source\repos\WpfExam\Library\obj\Debug\Library.pdb
+C:\Users\Администратор\Downloads\WpfExam\Library\bin\Debug\Library.dll
+C:\Users\Администратор\Downloads\WpfExam\Library\bin\Debug\Library.pdb
+C:\Users\Администратор\Downloads\WpfExam\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Администратор\Downloads\WpfExam\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Downloads\WpfExam\Library\obj\Debug\Library.dll
+C:\Users\Администратор\Downloads\WpfExam\Library\obj\Debug\Library.pdb

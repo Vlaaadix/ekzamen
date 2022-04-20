@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf", "Wpf\Wpf.csproj", "{D495B31B-E8CB-4ACC-9F31-DC5C8BE9390C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{942AD1EE-98CE-4DF1-B089-1D3FCE0DC1E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{90883A04-44FB-4883-8259-EC068876836E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D495B31B-E8CB-4ACC-9F31-DC5C8BE9390C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D495B31B-E8CB-4ACC-9F31-DC5C8BE9390C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D495B31B-E8CB-4ACC-9F31-DC5C8BE9390C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D495B31B-E8CB-4ACC-9F31-DC5C8BE9390C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{942AD1EE-98CE-4DF1-B089-1D3FCE0DC1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942AD1EE-98CE-4DF1-B089-1D3FCE0DC1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942AD1EE-98CE-4DF1-B089-1D3FCE0DC1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942AD1EE-98CE-4DF1-B089-1D3FCE0DC1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90883A04-44FB-4883-8259-EC068876836E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90883A04-44FB-4883-8259-EC068876836E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90883A04-44FB-4883-8259-EC068876836E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90883A04-44FB-4883-8259-EC068876836E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4479BD4-1C71-4F50-A6A2-0CE475809BE8}
+	EndGlobalSection
+EndGlobal
